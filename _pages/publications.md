@@ -10,7 +10,9 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+{% bibliography --file mypubs %}
+<!---
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+--->
