@@ -11,49 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in [Computer Science](http://cs.unm.edu), [University of New Mexico](http://www.unm.edu)
+* B.S. in Electrical and Computer Engineering, [Carnegie Mellon University](http://www.cmu.edu)
 
-Work experience
+Research
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Scientist, Information Sciences, Los Alamos National Laboratory
+  * Project Leader / Principal Investigator:
+    * Uncertainty quantification for robust machine learning
+    * Visual data analytics tools
+    * Image analysis using graphs
+  * Applications of machine learning projects include learning image analysis, ChemCam spectroscopy data analysis, malware characaterization, and other scientific data analysis problems.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Postdoctoral Research Associate, Space Data Science and Systems, Los Alamos National Laboratory
+  * Interactive machine learning for ChemCam data analysis, image analysis and satellite system state-of-health anomaly detection.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Recent Publications
 ======
+{% bibliography --file mypubs --max 8 %}
+* See [longer list](../publications)
+
+<!---
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+--->
+
+<!---
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+--->
+
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* How to Lie with Statistics: Uses and Misuses of Numbers in Argument
+  * Honors 302-005, University of New Mexico, 2013
+  * [See website](http://www.cs.unm.edu/~doyen)
+
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-organizer, Applied Machine Learning Summer Research Fellowship [(AML)](https://aml.lanl.gov)
+* Program committee member of AAAI, ICML, NIPS, IJCAI, UAI, AIStats, others
+
