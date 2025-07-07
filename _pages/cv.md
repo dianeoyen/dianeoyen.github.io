@@ -11,54 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of New Mexico
+* B.S. in Electrical and Computer Engineering, Carnegie Mellon University
 
-Work experience
+Research
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* AI Team Leader and Scientist, Information Sciences, Los Alamos National Laboratory
+  * Project Leader / Principal Investigator / Thrust Leader
+    * AI for Mission: Scientific foundation models (ArtIMis)
+    * AI-enable threat assessment
+    * Uncertainty quantification for robust machine learning
+    * Image analysis
+  * Applications of machne learning projects include spatio-temporal physics simulations, astrophsics, materials discovery, image analysis, ChemCam spectroscopy data analysis, malware characterization, and other scientific data analysis problems
+* Postdoctoral Research Associate, Space Data Science and Systems, Los Alamos National Laboratory
+  * Interactive machine learning for ChemCam data analysis, image analysis and satellite system state-of-health anomaly detection
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=3zO8KmkAAAAJ&view_op=list_works&sortby=pubdate) for recent publications
+
