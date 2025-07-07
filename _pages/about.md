@@ -10,14 +10,16 @@ redirect_from:
 
 Research Interests
 ======
-I am a machine learning researcher in the [Information Sciences](http://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/information-sciences/) group at the [Los Alamos National Laboratory](http://www.lanl.gov). I develop machine learning methods to help scientists analyze complex data. My research areas include trustworthy and reliable AI, probabilistic graphical models, unsupervised machine learning, interactive machine learning, transfer learning and lifelong machine learning. Applications include image analysis and remote sensing.
+I am the AI Team Leader in the [Information Sciences](http://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/information-sciences/) group at the [Los Alamos National Laboratory](http://www.lanl.gov). I develop AI and machine learning methods to help scientists analyze complex data. My research areas include foundation models for scientific discovery, trustworthy and reliable AI, AI safety and risk assessmet, probabilistic graphical models, unsupervised machine learning, interactive machine learning, transfer learning and lifelong machine learning. Applications include accelerating scientific simulations for discovery, AI safety, image analysis, and remote sensing.
 
-* Project Leader / Principal Investigator:
+* Project Leader / Thrust Leader:
+  * AI for Missions: Scientific Foundation Models (ArtIMis)
+* Project Leader / Principal Investigator (Past projects):
+  * AI Risk Assessment
   * Uncertainty quantification for robust machine learning (UQ4ML)
   * Visual data analytics tools (VDAT)
   * Image analysis using graphs (GoFigure)
-* Applications of machine learning projects include learning image analysis, Che\
-mCam spectroscopy data analysis, and other scientific data analysis problems.
+* Applications of AI projects include spatio-temporal physics simulations, materials discovery, image analysis, ChemCam spectroscopy data analysis, and other scientific data analysis problems.
 
 
 Publications
