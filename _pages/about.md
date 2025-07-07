@@ -10,7 +10,7 @@ redirect_from:
 
 Research Interests
 ======
-I am the AI Team Leader in the [Information Sciences](http://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/information-sciences/) group at the [Los Alamos National Laboratory](http://www.lanl.gov). I develop AI and machine learning methods to help scientists analyze complex data. My research areas include foundation models for scientific discovery, trustworthy and reliable AI, AI safety and risk assessmet, probabilistic graphical models, unsupervised machine learning, interactive machine learning, transfer learning and lifelong machine learning. Applications include accelerating scientific simulations for discovery, AI safety, image analysis, and remote sensing.
+I am the AI Team Leader in the [Information Sciences]([http://www.lanl.gov/org/ddste/aldsc/computer-computational-statistical-sciences/information-sciences/](https://www.lanl.gov/engage/organizations/aldsct/computer-computational-and-statistical-sciences/information-sciences)) group at the [Los Alamos National Laboratory](http://www.lanl.gov). I develop AI and machine learning methods to help scientists analyze complex data. My research areas include foundation models for scientific discovery, trustworthy and reliable AI, AI safety and risk assessmet, probabilistic graphical models, unsupervised machine learning, interactive machine learning, transfer learning and lifelong machine learning. Applications include accelerating scientific simulations for discovery, AI safety, image analysis, and remote sensing.
 
 * Project Leader / Thrust Leader:
   * AI for Missions: Scientific Foundation Models (ArtIMis)
