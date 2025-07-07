@@ -26,11 +26,12 @@ Publications
 ======
 See [Google Scholar](https://scholar.google.com/citations?user=3zO8KmkAAAAJ).
 
-<!--
+
 Data
 =====
- * DeepPatent
--->
+ * [DeepPatent2](https://www.nature.com/articles/s41597-023-02653-7) technical drawings with text labels (2M+ images).
+ * [DeepPatent](https://github.com/GoFigure-LANL/DeepPatent-dataset) technical drawing retrieval (300k+ images).
+
 
 Software
 ======
